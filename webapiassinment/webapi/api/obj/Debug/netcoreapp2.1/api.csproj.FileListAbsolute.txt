@@ -12,3 +12,31 @@ C:\Users\eshee\Desktop\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.As
 C:\Users\eshee\Desktop\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
 C:\Users\eshee\Desktop\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.dll
 C:\Users\eshee\Desktop\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.pdb
+G:\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.deps.json
+G:\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.json
+G:\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+G:\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.dll
+G:\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.pdb
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.dll
+G:\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.pdb
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.deps.json
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.json
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.dll
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\bin\Debug\netcoreapp2.1\api.pdb
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.dll
+C:\Users\eshee\Desktop\Push not working\webapiassinment\webapiassinment\webapi\api\obj\Debug\netcoreapp2.1\api.pdb

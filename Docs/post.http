@@ -1,0 +1,7 @@
+#Post  http://localhost:5000/api/WishlistControler
+# content-type: application/json
+
+# {
+#   "pid": 2,
+#   "mid": 3
+# }

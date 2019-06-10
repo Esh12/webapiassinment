@@ -1,0 +1,6 @@
+#GET  http://localhost:5000/api/UsersControler
+#GET  http://localhost:5000/api/UsersControler/1
+#GET  http://localhost:5000/api/MoviesControler
+#GET  http://localhost:5000/api/MoviesControler/1
+#GET  http://localhost:5000/api/WishlistControler
+#GET  http://localhost:5000/api/WishlistControler/1

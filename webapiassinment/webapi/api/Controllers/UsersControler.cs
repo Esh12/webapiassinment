@@ -45,7 +45,7 @@ public class UsersControler : ControllerBase{
         _context.Entry (item).State = EntityState.Modified;
             await _context.SaveChangesAsync ();
 
-        return Content("Users details has been updated. Thank You");
+        return Content("Users details has been updated. Thank You. How you see you new updated details");
     }
 }
 

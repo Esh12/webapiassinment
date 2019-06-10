@@ -1,0 +1,11 @@
+# PUT http://localhost:5000/api/users/1
+# content-type: application/json
+
+#{
+#     "id" : 1,
+#      "fname": "John",
+#       "lname" : "Key",
+#       "uname" : "jkey",
+#       "password" : "New Zealand",      
+#        "email":   "johnkey@gorvementmail.co.nz
+#}

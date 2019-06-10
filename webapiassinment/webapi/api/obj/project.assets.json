@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eshee\\Desktop\\webapiassinment\\webapi\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\eshee\\Desktop\\Push not working\\webapiassinment\\webapiassinment\\webapi\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\eshee\\Desktop\\webapiassinment\\webapi\\api\\api.csproj",
+      "projectPath": "C:\\Users\\eshee\\Desktop\\Push not working\\webapiassinment\\webapiassinment\\webapi\\api\\api.csproj",
       "packagesPath": "C:\\Users\\eshee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eshee\\Desktop\\webapiassinment\\webapi\\api\\obj\\",
+      "outputPath": "C:\\Users\\eshee\\Desktop\\Push not working\\webapiassinment\\webapiassinment\\webapi\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
